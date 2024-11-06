@@ -4,6 +4,8 @@
 
 #define MAX_NAME 50
 
+// Hélio Wesley da Silva Martins
+// Antônio Wagner Levy Limas Fernandes
 
 typedef struct Fruta {
     int codigo;

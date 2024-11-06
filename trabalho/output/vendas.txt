@@ -1,0 +1,3 @@
+Codigo: 1, Quantidade: 1, Total: 5.00
+Venda - Código: 3, Nome: Laranja, Quantidade: 5, Preço Unitário: 1.29, Total: 6.45
+Venda - Código: 1, Nome: Maçã, Quantidade: 3, Preço Unitário: 1.99, Total: 5.97
